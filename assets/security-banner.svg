@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="FiamrHack — Cybersecurity student. Learn. Break down. Build better.">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071413"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#39ffb6"/><stop offset="1" stop-color="#37b6ff"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#39ffb6" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="420" rx="20" fill="url(#bg)"/>
+<rect width="1280" height="420" rx="20" fill="url(#grid)"/>
+<rect x="24" y="24" width="1232" height="372" rx="14" fill="none" stroke="#23413d"/>
+<path d="M25 75H1255" stroke="#23413d"/>
+<circle cx="50" cy="50" r="6" fill="#ff657a"/><circle cx="72" cy="50" r="6" fill="#ffd166"/><circle cx="94" cy="50" r="6" fill="#39ffb6"/>
+<text x="120" y="56" fill="#789992" font-family="monospace" font-size="14">fiamrhack@github: ~/security-journey</text>
+<text x="65" y="123" fill="#39ffb6" font-family="monospace" font-size="17">$ whoami</text>
+<text x="60" y="207" fill="#edfdf7" font-family="Arial,sans-serif" font-weight="700" font-size="76" letter-spacing="-3">FIAMRHACK<tspan fill="#39ffb6">_</tspan></text>
+<text x="65" y="250" fill="#a7c5bd" font-family="monospace" font-size="19">CYBERSECURITY &amp; ETHICAL HACKING STUDENT</text>
+<rect x="65" y="278" width="500" height="3" rx="1" fill="url(#line)"/>
+<text x="65" y="321" fill="#e0f7ee" font-family="monospace" font-size="18">Learn. Break down. Build better.</text>
+<text x="65" y="362" fill="#789992" font-family="monospace" font-size="13">WEB SECURITY / SECURE DEVELOPMENT / AUTOMATION</text>
+<g transform="translate(965 125)" fill="none" stroke="#39ffb6">
+<circle cx="80" cy="95" r="86" opacity=".12"/><circle cx="80" cy="95" r="110" opacity=".07"/>
+<path d="M80 14L144 38V94C144 140 108 169 80 184C52 169 16 140 16 94V38Z" fill="#39ffb6" fill-opacity=".035" stroke-width="2"/>
+<path d="M61 72L38 95L61 118M99 72L122 95L99 118M88 63L72 127" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<circle cx="1150" cy="351" r="4" fill="#39ffb6"/><text x="1162" y="356" fill="#789992" font-family="monospace" font-size="12">LEARNING</text>
+</svg>
