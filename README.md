@@ -6,7 +6,7 @@
 
 **Web Application Security · Secure Development · AI-assisted Building**
 
-[Security projects](#-security-projects) &nbsp; / &nbsp; [Learning roadmap](#-learning-roadmap) &nbsp; / &nbsp; [Development](#-development-projects) &nbsp; / &nbsp; [Collaborate](#-connect--collaborate)
+[Security projects](#security-projects) &nbsp; / &nbsp; [Learning roadmap](#-learning-roadmap) &nbsp; / &nbsp; [Development](#-development-projects) &nbsp; / &nbsp; [Collaborate](#-connect--collaborate)
 
 <sub>ARENA WEB SECURITY STUDENT &nbsp; • &nbsp; LEARNING IN PUBLIC &nbsp; • &nbsp; BUILDING WITH PURPOSE</sub>
 
@@ -36,6 +36,8 @@ Course learning resources, collaborative dashboards, web applications, and autom
 </td>
 </tr>
 </table>
+
+<a id="security-projects"></a>
 
 ## 🛡️ Security projects
 
