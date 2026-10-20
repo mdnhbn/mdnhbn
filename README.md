@@ -1,95 +1,54 @@
-# Hey, I'm FiamrHack 👋
+# Hi, I'm FiamrHack 👋
 
-🚀 **Digital Entrepreneur | Learning Cybersecurity | Building with AI**
+**Cybersecurity & Ethical Hacking Student · Web Security · AI-assisted Development**
 
----
+Learning how web applications work, how vulnerabilities happen, and how to build safer digital products.
 
-## About Me
+## 🔐 About me
 
-- 💼 Building **digital income streams** through entrepreneurship
-- 📚 Currently learning **ethical hacking & cybersecurity** (Arena Web Security Course)
-- 🤖 Building projects using **AI tools** (Claude, Google AI Studio)
-- 🛠️ Deploying on **Vercel, Render, GitHub**
-- 📍 Based in **Riyadh, Saudi Arabia**
+- Studying cybersecurity and ethical hacking through the **Arena Web Security Course**.
+- Developing my understanding of **web application security, OWASP Top 10, authentication, and access control**.
+- Building web projects with AI-assisted development and learning through practical work.
+- Sharing course resources and documenting my learning journey.
 
----
+## 📚 Learning focus
 
-## 🎓 What I'm Learning
+| Area | What I'm working toward |
+| --- | --- |
+| Web fundamentals | Understanding HTTP, application behavior, and client–server interactions |
+| Web security | Learning common vulnerabilities and their mitigations |
+| Authentication & authorization | Understanding sessions, permissions, and access control |
+| Practical learning | Practicing in authorized training labs and documenting lessons |
+| Secure development | Applying security concepts to my own projects |
 
-### Arena Web Security Course
-- Understanding web application vulnerabilities
-- OWASP Top 10 concepts
-- Security testing basics
-- Authentication & authorization principles
+**Status:** Currently learning. My course, practical skills, and portfolio are works in progress.
 
-**Status:** Actively learning and building knowledge 📚
+## 🧭 Explore my work
 
----
+### Security learning & course projects
 
-## 💼 My Projects
+| Repository | Purpose |
+| --- | --- |
+| [Arena B66 Delta Archive](https://github.com/mdnhbn/arena-b66-delta-archive) | Bengali course archive with organized classes, searchable resources, and a study roadmap |
+| [AWS 66 Delta — Course Task Tracker](https://github.com/mdnhbn/AWS-66-Delta-Shell-Upload-Project) | Collaborative tracker for authorized course assignments and task outcomes |
 
-These are digital income projects I've built using **AI-assisted development:**
+### Web & automation projects
 
-- 📱 **Telegram Earning Platform** - Mini app for users to earn rewards
-- 📊 **Affiliate Post Generator Pro** - SaaS platform for affiliate marketers
-- 💰 **Multiple Digital Income Streams** - Building and testing different ideas
+- [Affiliate Post Generator Pro](https://github.com/mdnhbn/affiliate-post-generator-pro) — Affiliate content project built through AI-assisted development.
+- [Telegram Bot Platform](https://github.com/mdnhbn/telegram-bot-platform) — Telegram bot development project.
+- [Eid Mubarak Wishes](https://github.com/mdnhbn/eid-mubarak-wishes) — Web greeting project.
 
----
+## 🎯 Next milestones
 
-## 🛠️ Tech Stack (Learning & Using)
----
+- Continue the Arena Web Security Course.
+- Write clear notes and lab write-ups that explain both the issue and the fix.
+- Strengthen web fundamentals and secure coding practices.
+- Grow a portfolio of practical, well-documented security learning projects.
 
-## 🤖 How I Work
-**This is a valid modern skill in 2025!** ✨
+## 🤝 Collaboration
 
----
-
-## 🔒 Security Learning Journey
-
-### Currently Learning:
-- ✅ Web application vulnerabilities
-- ✅ OWASP Top 10
-- ✅ Authentication systems
-- ✅ Secure coding basics
-
-### My Approach:
-- Learning security concepts practically
-- Applying security in my own projects
-- Reading and studying security guidelines
-- Building security-conscious products
-
-*Not an expert yet - but learning and practicing!* 🎯
+Open to study groups, beginner-friendly collaboration, project feedback, and mentorship in web security. Project questions and suggestions are welcome through the relevant repository's Issues.
 
 ---
 
-## 🤝 Let's Connect
-
-I'm open to:
-- 💬 Collaborating on projects
-- 📚 Learning opportunities
-- 🔄 Feedback on my work
-- 📧 Freelance projects
-- 🎓 Mentorship in security
-
-**Feel free to reach out!**
-
----
-
-## 🎯 Current Goals
-
-- ✅ Build 3+ successful digital products
-- ✅ Complete Arena Web Security Course
-- ✅ Learn practical cybersecurity skills
-- ✅ Get freelance security projects
-- ✅ Share knowledge with others
-
----
-
-**Happy coding! 💻✨**
-
-```javascript
-const fiamrHack = {
-  role: "Digital Entrepreneur & Security Learner",
-  focus: ["Building Products", "Learning Security", "Entrepreneurship"],
-  mission: "Build secure digital products and share the journey"
-};
+*Learn responsibly. Practice only on systems I own or have explicit permission to test.*
