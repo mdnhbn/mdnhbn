@@ -4,7 +4,9 @@
 
 <br />
 
-**Web Application Security · Secure Development · AI-assisted Building**
+### Ethical Hacking Student · Web Application Security
+
+**Learning the attack. Understanding the cause. Building the defense.**
 
 [Security projects](#security-projects) &nbsp; / &nbsp; [Learning roadmap](#-learning-roadmap) &nbsp; / &nbsp; [Development](#-development-projects) &nbsp; / &nbsp; [Collaborate](#-connect--collaborate)
 
@@ -19,6 +21,8 @@
 I'm **FiamrHack**, a cybersecurity and ethical hacking student learning with **Arena Web Security**. I build web projects, organize course resources, and explore how application security connects to everyday development.
 
 My approach: **understand the behavior → find the cause → learn the fix → document the lesson.**
+
+**Currently studying:** Arena Web Security &nbsp; · &nbsp; **Practice:** Authorized labs &nbsp; · &nbsp; **Portfolio:** In progress
 
 <table>
 <tr>
@@ -51,7 +55,7 @@ A Bengali course archive with organized classes, searchable resources, and a lea
 
 **Learning organization · Documentation · Resource discovery**
 
-[View repository ↗](https://github.com/mdnhbn/arena-b66-delta-archive)
+[Live archive ↗](https://arena-b66-delta-archive.vercel.app/) · [Source ↗](https://github.com/mdnhbn/arena-b66-delta-archive)
 
 </td>
 <td width="50%" valign="top">
@@ -62,7 +66,7 @@ A collaborative dashboard for recording authorized course assignments and their 
 
 **Structured reporting · Collaboration · Assignment tracking**
 
-[View repository ↗](https://github.com/mdnhbn/AWS-66-Delta-Shell-Upload-Project)
+[Live dashboard ↗](https://aws-66-delta-shell-upload-project.vercel.app/) · [Source ↗](https://github.com/mdnhbn/AWS-66-Delta-Shell-Upload-Project)
 
 </td>
 </tr>
@@ -81,11 +85,11 @@ A collaborative dashboard for recording authorized course assignments and their 
 
 ## 💻 Development projects
 
-| Repository | Focus |
-| :--- | :--- |
-| [Affiliate Post Generator Pro ↗](https://github.com/mdnhbn/affiliate-post-generator-pro) | AI-assisted development for affiliate content workflows |
-| [Telegram Bot Platform ↗](https://github.com/mdnhbn/telegram-bot-platform) | Bot development and automation |
-| [Eid Mubarak Wishes ↗](https://github.com/mdnhbn/eid-mubarak-wishes) | Interactive web greetings and frontend development |
+| Project | Explore | Source |
+| :--- | :--- | :--- |
+| Affiliate Post Generator Pro | [Open app ↗](https://affiliate-post-generator-pro.vercel.app/) — affiliate content workflows; sign-in required | Private |
+| BranchPilot | [Explore demo ↗](https://branchpilot-blue.vercel.app/) — gym reception prototype with synthetic data | Private |
+| Eid Mubarak Wishes | [Open website ↗](https://eid-mubarak-wishes.vercel.app/) — interactive web greetings | [Repository ↗](https://github.com/mdnhbn/eid-mubarak-wishes) |
 
 <details>
 <summary><strong>📝 My blueprint for future security write-ups</strong></summary>
@@ -105,6 +109,8 @@ A collaborative dashboard for recording authorized course assignments and their 
 ## 🤝 Connect & collaborate
 
 Open to **study partners, beginner-friendly projects, constructive feedback, and web security mentorship**.
+
+**বাংলা ও English:** শেখা, নোট গুছানো এবং অনুমোদিত ল্যাবে অনুশীলনের মাধ্যমে নিজের দক্ষতা বাড়াচ্ছি।
 
 For project questions or suggestions, start with Issues in the relevant repository when available.
 
