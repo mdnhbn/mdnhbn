@@ -1,125 +1,65 @@
 <div align="center">
 
-<img src="./assets/security-banner.svg" width="100%" alt="FiamrHack — Cybersecurity and ethical hacking student. Dark terminal banner with a green code shield." />
-
-<br />
+<img src="./assets/security-banner.svg" width="100%" alt="FiamrHack | Cybersecurity & Web Application Security Student" />
 
 ### Ethical Hacking Student · Web Application Security
 
-**Learning the attack. Understanding the cause. Building the defense.**
+**Learn with curiosity. Test with permission. Document the defense.**
 
-[Security projects](#security-projects) &nbsp; / &nbsp; [Learning roadmap](#-learning-roadmap) &nbsp; / &nbsp; [Development](#-development-projects) &nbsp; / &nbsp; [Collaborate](#-connect--collaborate)
+[Portfolio](https://fiamrhack-portfolio.vercel.app/) &nbsp; / &nbsp; [Course archive](https://cybernest-learn.vercel.app/#classes) &nbsp; / &nbsp; [Security projects](#security-projects) &nbsp; / &nbsp; [Connect](#connect)
 
-<sub>ARENA WEB SECURITY STUDENT &nbsp; • &nbsp; LEARNING IN PUBLIC &nbsp; • &nbsp; BUILDING WITH PURPOSE</sub>
+<sub>ARENA WEB SECURITY · AWS 66 DELTA · LEARNING IN PUBLIC</sub>
 
 </div>
 
 ---
 
-## `01 / whoami`
+## Who I am
 
-I'm **FiamrHack**, a cybersecurity and ethical hacking student learning with **Arena Web Security**. I build web projects, organize course resources, and explore how application security connects to everyday development.
+I’m **FiamrHack (MD Nazmul Hassan)**, a cybersecurity and ethical hacking student with **Arena Web Security**. I build web projects, organize learning resources, and study how to assess and improve application security.
 
-My approach: **understand the behavior → find the cause → learn the fix → document the lesson.**
+My learning approach: **understand the behavior → find the cause → learn the mitigation → document the lesson.** I practise in authorized training environments. Course status: **in progress, nearing completion**.
 
-**Currently studying:** Arena Web Security &nbsp; · &nbsp; **Practice:** Authorized labs &nbsp; · &nbsp; **Portfolio:** In progress
+## Coursework map
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Topics below are drawn from the AWS 66 Delta classes listed in recording order in the CyberNest archive. This is coursework exposure, not a claim of professional certification.
 
-### 🔎 Exploring
-Web application vulnerabilities, OWASP Top 10 concepts, authentication, sessions, and access control.
+| Learning area | Topics covered in class |
+| :--- | :--- |
+| Web application security | HTTP/HTTPS, SQL injection, XSS, file upload security, sessions, LFI and path traversal concepts |
+| Tools & labs | Burp Suite Proxy/Intruder, PortSwigger labs, Acunetix setup and reporting |
+| Recon & assessment | OSINT, web and directory discovery, Shodan, network testing, Nuclei and Nikto scanning, result verification |
+| Platforms & defense | Linux and scripting basics, WordPress and XML-RPC security, Wordfence malware scanning, WAF and IDS concepts |
+| Reporting & responsible practice | Evidence, findings, report structure, mitigation, and controlled security labs |
 
-</td>
-<td width="50%" valign="top">
+**Course note:** The CyberNest class list shows the 15 November live-class recording as pending; the report-writing entry notes some video parts are missing.
 
-### 🛠️ Building
-Course learning resources, collaborative dashboards, web applications, and automation with AI-assisted development.
-
-</td>
-</tr>
-</table>
+[Browse the class list ↗](https://cybernest-learn.vercel.app/#classes)
 
 <a id="security-projects"></a>
 
-## 🛡️ Security projects
+## Security projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Arena B66 Delta Archive](https://github.com/mdnhbn/arena-b66-delta-archive)
-
-A Bengali course archive with organized classes, searchable resources, and a learning roadmap.
-
-**Learning organization · Documentation · Resource discovery**
-
-[Live archive ↗](https://arena-b66-delta-archive.vercel.app/) · [Source ↗](https://github.com/mdnhbn/arena-b66-delta-archive)
-
-</td>
-<td width="50%" valign="top">
-
-### [AWS 66 Delta Tracker](https://github.com/mdnhbn/AWS-66-Delta-Shell-Upload-Project)
-
-A collaborative dashboard for recording authorized course assignments and their outcomes.
-
-**Structured reporting · Collaboration · Assignment tracking**
-
-[Live dashboard ↗](https://aws-66-delta-shell-upload-project.vercel.app/) · [Source ↗](https://github.com/mdnhbn/AWS-66-Delta-Shell-Upload-Project)
-
-</td>
-</tr>
-</table>
-
-## 🧭 Learning roadmap
-
-**Current stage: student · Practical skills and portfolio in progress**
-
-| Track | Learning focus | Next portfolio goal |
+| Project | What it does | Links |
 | :--- | :--- | :--- |
-| `01 / foundations` | HTTP, requests, responses, and browser–server behavior | Explain a web request through clear notes |
-| `02 / web security` | Common vulnerability causes and OWASP concepts | Write authorized lab reports with mitigations |
-| `03 / identity` | Authentication, sessions, permissions, and access control | Document access-control checks in training labs |
-| `04 / secure code` | Input handling, secrets, and safer application design | Explain small security improvements in code |
+| **Arena B66 Delta Archive** | Bengali course archive with chronological classes, searchable resources, and a learning roadmap. | [Live ↗](https://arena-b66-delta-archive.vercel.app/) · [Source ↗](https://github.com/mdnhbn/arena-b66-delta-archive) |
+| **AWS 66 Delta Tracker** | Collaborative dashboard for documenting authorized course assignments and outcomes. | [Live ↗](https://aws-66-delta-shell-upload-project.vercel.app/) · [Source ↗](https://github.com/mdnhbn/AWS-66-Delta-Shell-Upload-Project) |
+| **FiamrHack Portfolio** | Public portfolio with learning areas, project highlights, and ways to connect. | [Visit ↗](https://fiamrhack-portfolio.vercel.app/) · [Source ↗](https://github.com/mdnhbn/fiamrhack-portfolio) |
 
-## 💻 Development projects
+## Next steps
 
-| Project | Explore | Source |
-| :--- | :--- | :--- |
-| Affiliate Post Generator Pro | [Open app ↗](https://affiliate-post-generator-pro.vercel.app/) — affiliate content workflows; sign-in required | Private |
-| BranchPilot | [Explore demo ↗](https://branchpilot-blue.vercel.app/) — gym reception prototype with synthetic data | Private |
-| Eid Mubarak Wishes | [Open website ↗](https://eid-mubarak-wishes.vercel.app/) — interactive web greetings | [Repository ↗](https://github.com/mdnhbn/eid-mubarak-wishes) |
+- Turn class notes into clear, evidence-based learning write-ups.
+- Explain findings with impact, root cause, and practical mitigations.
+- Keep building web projects with secure defaults and responsible disclosure habits.
 
-<details>
-<summary><strong>📝 My blueprint for future security write-ups</strong></summary>
+<a id="connect"></a>
 
-<br />
+## Connect
 
-| Step | What the write-up should explain |
-| :--- | :--- |
-| Context | Authorized environment and learning objective |
-| Finding | What happened and why it matters |
-| Root cause | The application behavior behind the issue |
-| Mitigation | How to prevent or fix the issue |
-| Reflection | Lessons learned and the next question to explore |
-
-</details>
-
-## 🤝 Connect & collaborate
-
-Open to **study partners, beginner-friendly projects, constructive feedback, and web security mentorship**.
+Open to study partners, beginner-friendly collaborations, feedback, and web-security mentorship.
 
 **বাংলা ও English:** শেখা, নোট গুছানো এবং অনুমোদিত ল্যাবে অনুশীলনের মাধ্যমে নিজের দক্ষতা বাড়াচ্ছি।
 
-For project questions or suggestions, start with Issues in the relevant repository when available.
+[LinkedIn](https://www.linkedin.com/in/md-nazmul-hassan-1a930110b/) · [GitHub](https://github.com/mdnhbn) · [Facebook](https://www.facebook.com/fiamrhack)
 
----
-
-<div align="center">
-
-### `> Stay curious. Think critically. Build securely._`
-
-<sub>Practice on owned systems, authorized labs, or environments with explicit permission.</sub>
-
-</div>
+<div align="center"><sub>Practice on owned systems or explicitly authorized labs. Stay curious. Build securely.</sub></div>
